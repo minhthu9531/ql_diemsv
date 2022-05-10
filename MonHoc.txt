@@ -1,0 +1,145 @@
+36
+BAS1122
+Tu Tuong Ho Chi Minh
+4
+1
+BAS1143
+Tieng Anh A2.1
+4
+1
+BAS1146
+Tieng Anh B1.2
+4
+1
+BAS1203
+Giai Tich 1
+3
+0
+BAS1221
+Toan Ky Thuat
+3
+0
+BAS1226
+Xac Suat Thong Ke
+4
+0
+BSA1314
+Luat Kinh Doanh
+4
+1
+BSA1334
+Quan Tri Thuong Hieu
+4
+0
+ELE1305
+Co So Do Luong Dien Tu
+4
+0
+ELE1308
+Dien Tu Cong Suat
+3
+1
+ELE1310
+Dien Tu Tuong Tu
+4
+1
+ELE1318
+Ly Thuyet Mach
+4
+1
+ELE1319
+Ly Thuyet Thong Tin
+3
+1
+ELE1330
+Xu Ly Tin Hieu So
+2
+0
+ELE1415
+He Thong Nhung
+3
+1
+ELE1422
+Thi Giac May Tinh
+3
+0
+ELE1424
+Thiet Ke IC So
+3
+0
+ELE1435
+Thuc Hanh Chuyen Sau
+5
+1
+INT1154
+Tin Hoc Co So 1
+1
+1
+INT1311
+Ky Thuat Do Hoa
+3
+0
+INT1313
+Co So Du Lieu
+2
+1
+INT1336
+Mang May Tinh
+2
+0
+INT1339
+Ngon Ngu Lap Trinh c++
+2
+1
+INT1358
+Toan Roi Rac 1
+3
+0
+INT1362
+Xu Ly Anh
+4
+0
+INT1483
+An Toan Mang Nang Cao
+3
+1
+INT1484
+An Toan He Dieu Hanh
+3
+0
+MAR1323
+Thuong Mai Dien Thu
+4
+1
+MAR1329
+Quan Tri Ban Hang
+4
+0
+OTC1301
+Thuc Hanh Co So
+3
+1
+SKD1101
+Ky Nang Thuyet Trinh
+2
+0
+SKD1102
+Ky Nang Lam Viec Nhom
+3
+1
+SKD1103
+Ky Nang Tao Lap Van Ban
+3
+1
+TEL1345
+Ky Thuat Sieu Cao Tan
+4
+1
+TEL1415
+Thong Tin Di Dong
+4
+0
+TEL1419
+Tong Quan Vien Thong
+2
+1
